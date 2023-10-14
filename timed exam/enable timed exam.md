@@ -4,13 +4,13 @@
 
 ## Developer
 
-### Ở devstack `lms.yml` và `studio.yml`, set: 
+**Ở devstack `lms.yml` và `studio.yml`, set:**
 
 ```yml
 FEATURES:
     ENABLE_SPECIAL_EXAMS: true
 ```
-### Ở Tutor
+**Ở Tutor**
 
 **C1:** set ở `config.yml`: chưa tìm ra cách. 
 
@@ -25,7 +25,7 @@ Có điều khi set trực tiếp ở 2 file này, mõi lần `tutor config save
 
 **C3:** dùng plugins
 
-Nội dung file plugin ở ![đây](https://gist.github.com/uuuuv/b5cd8a391d886eb7908686ba5f622852)
+Nội dung file plugin ở [đây](https://gist.github.com/uuuuv/b5cd8a391d886eb7908686ba5f622852)
 
 Tạo folder plugin và cd tới đó: 
 ```shell
