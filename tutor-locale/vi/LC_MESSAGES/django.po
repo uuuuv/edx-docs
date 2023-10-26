@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "Dates"
+msgstr "Kế hoạch học tập"
+
+msgid "Date"
+msgstr "Kế hoạch học tập"
+
+msgid "Course"
+msgstr "Khoá học"
+
+msgid "Progress"
+msgstr "Tiến độ"
+
+msgid "Assessment Submission"
+msgstr "Hướng dẫn nộp bài"
+
+msgid "Help"
+msgstr "Số tay SV"
+
+msgid "About"
+msgstr "About"
+
+msgid "View a specific learner's dates"
+msgstr "Xem ngày học của học viên cụ thể"
+
+msgid "View Dates Page"
+msgstr "Xem kế hoạch học tập"
