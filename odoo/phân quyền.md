@@ -40,7 +40,7 @@ Sau đây sẽ là 1 cách có thể dùng để phân quyền cho funix. Ý tư
 
 Tạo Category Funix có 2 groups: admin, mentor:
 - admin có thể CRUD. 
-- mentor chỉ có thể CRU.
+- mentor chỉ có thể C.
 
 File `security/security.xml`: 
 
