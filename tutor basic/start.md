@@ -75,3 +75,6 @@ Tạo superusser:
 tutor local do createuser --staff --superuser admin admin@openedx.com
 ```
 
+## 6. Cài plugins
+Tạo các file pythons plugins > `(venv) cd $(tutor plugins printroot)` > cho các file plugins vào đây > `(venv) tutor plugins list` để check các plugins đã thêm vào > `(venv) tutor plugins enable <tên plugin>` (không có đuôi .py) để enable plugin > `(venv) tutor config save` > `(venv) tutor local restart`.
+
